@@ -1,0 +1,15 @@
+date,amount,category,description
+20-07-2024,125.65,Income,Salary
+24-03-2025,125.0,Income,
+04-04-1998,10000.0,Expense,
+01-01-1991,200000.0,Expense,
+15-08-2023,500.00,Income,Freelance
+10-09-2022,1500.00,Expense,Rent
+05-05-2021,250.75,Income,Investment Return
+30-12-2020,300.00,Expense,Groceries
+14-02-2019,75.50,Expense,Transport
+07-07-2018,980.00,Income,Bonus
+22-06-2017,110.00,Expense,Utilities
+03-03-2016,4500.00,Income,Project Payment
+19-11-2015,60.00,Expense,Subscription
+01-02-1800,10000.0,Expense,salary
